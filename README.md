@@ -1,0 +1,2 @@
+# linear-config
+Linear Configuration
